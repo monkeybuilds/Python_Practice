@@ -21,4 +21,4 @@ This repository includes:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/python-practice.git
+   git clone https://github.com/monkeybuilds/Python_Practice.git
